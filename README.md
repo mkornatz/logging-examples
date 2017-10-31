@@ -1,6 +1,14 @@
 # Logging Examples
 A small example of using log levels appropriately in node.
 
+## Install
+
+```
+npm install
+```
+
+## Learning
+
 Adjust the log level in `.env`.
 
 Run the example scripts:
